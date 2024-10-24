@@ -103,13 +103,6 @@ footer {
     margin-right: 20px; /* テキストと画像の間のスペース */
 }
 
-/* 略歴の画像 */
-.biography-photo {
-    max-width: 200px; /* 画像の幅を調整 */
-    height: auto;
-    float: right;
-}
-
 /* 画像を横並びに配置するためのクラス */
 .photo-row {
     display: flex;
